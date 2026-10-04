@@ -1,0 +1,8 @@
+airflow.db
+airflow.db-shm
+airflow.db-wal
+logs/
+airflow_venv/
+*.pyc
+__pycache__/
+simple_auth_manager_passwords.json.generated
